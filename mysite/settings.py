@@ -25,8 +25,8 @@ SECRET_KEY = '1cfd8(!l3zfm*7(rcsr7rfhn0s72qbl05e$f&y!na7bt=^r+!0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-#ALLOWED_HOSTS = ['http://timmymill.pythonanywhere.com/']
+# ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['timmymill.pythonanywhere.com']
 
 
 
